@@ -31,17 +31,18 @@ Install required packages using:
 
 ```bash
 pip install requests twilio python-dotenv
+```
 
 
 ### 🔐 Environment Setup (.env File)
 Create a file named .env (no file extension) in the same folder as your .py file.
 
 Paste this inside it:
-
+```
 OWM_API_KEY=your_openweathermap_api_key
 TWILIO_SID=your_twilio_account_sid
 TWILIO_AUTH_TOKEN=your_twilio_auth_token
-
+```
 
 ⚠️ Never share this file or push it to GitHub. It contains your private API credentials.
 
