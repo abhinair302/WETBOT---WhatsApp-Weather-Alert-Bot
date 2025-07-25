@@ -62,7 +62,7 @@ YOUR_WHATSAPP_NO = "+91xxxxxxxxx"  # Replace with your number
 
 Here’s what the WhatsApp alert looks like when rain is predicted:
 
-![WETBOT WhatsApp Message](wetbot-demo.png)
+![WETBOT WhatsApp Message](wetbot-whatsapp-message.jpg)
 
 Thank you for visiting and checking out WETBOT!
 This is just the beginning — the project will continue to improve with time.
