@@ -4,6 +4,7 @@ WETBOT is an automated weather alert bot that notifies you via **WhatsApp** if t
 It uses **OpenWeatherMap** for weather forecasts and **Twilio**'s WhatsApp API to send alerts directly to your phone.
 
 Designed for convenience, WETBOT ensures you're always prepared — even when the skies aren't!
+I made this project as a part of a Udemy course. So special Thanks to Dr. Angela Yu for guiding me step by step, to build this project. 
 
 ---
 
